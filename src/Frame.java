@@ -6,7 +6,7 @@ public class Frame extends JFrame{
         super("Kółko i krzyżyk");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(640,400);
-        setLocation(2000,51);
+        setLocation(2000,50);
         setVisible(true);
 
     }
