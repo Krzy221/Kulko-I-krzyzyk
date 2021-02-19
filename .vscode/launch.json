@@ -16,7 +16,6 @@
             "request": "launch",
             "mainClass": "App",
             "projectName": "Kulko-I-krzyzyk_900d6c64",
-            "console": "externalTerminal"
         }
     ]
 }
